@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sky
+    uniqueID: 714489463
+    locked: 0
+  - name: moon
+    uniqueID: 198927047
+    locked: 0
+  - name: backhround
+    uniqueID: 1200306451
+    locked: 0
+  - name: house
+    uniqueID: 3389370921
+    locked: 0
+  - name: road
+    uniqueID: 2815492159
+    locked: 0
+  - name: civi
+    uniqueID: 187738187
+    locked: 0
+  - name: char
+    uniqueID: 4218976083
+    locked: 0

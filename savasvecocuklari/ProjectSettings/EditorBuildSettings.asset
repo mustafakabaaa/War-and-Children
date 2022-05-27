@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/beyhudegames.unity
+    guid: 3066e6906b58c794aa7bfdbe147ed3e2
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 55dba995dd23e104582afc741e93c8f1
+  - enabled: 1
+    path: Assets/Scenes/savasvecocuklari1.1.unity
+    guid: ef78b779d38bc1e43a54970678eea30a
+  - enabled: 1
+    path: Assets/Scenes/Hakkinda.unity
+    guid: 5462d500e88a7a54aba16caf858f4023
+  - enabled: 1
+    path: Assets/Scenes/Ayarlar.unity
+    guid: 1ffd2c8afdb436c42b88a3ad7874e154
+  - enabled: 1
+    path: Assets/Scenes/Kazandin.unity
+    guid: 4c02b71fbcdf8724ca30586c204bef4a
+  m_configObjects: {}
