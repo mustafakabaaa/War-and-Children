@@ -1,3 +1,4 @@
 # savasvecocuklari
 Profesyonel Yazılım Geliştirme
-kodlaron konumu
+kodların konumu-
+savasvecocuklari/Assets/assets/scripts
